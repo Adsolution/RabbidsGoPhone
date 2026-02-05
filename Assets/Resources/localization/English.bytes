@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-16" standalone="no"?>
+<Localization>
+	<Text id="Yes" text="Yes"/>
+	<Text id="No" text="No"/>
+	<Text id="Cancel" text="Cancel"/>
+	<Text id="PleaseWait" text="Please Wait... "/>
+	<Text id="StartGame" text="My Rabbid"/>
+	<Text id="OutWorld" text="Rabbids World"/>
+	<Text id="PhotoRoom" text="Photo shoot"/>
+	<Text id="Music" text="Music"/>
+	<Text id="Options" text="Options"/>
+	<Text id="CreditsTitle" text="Credits"/>
+	<Text id="Quit" text="Exit"/>
+	<Text id="NewMove" text="NEW MOVE!"/>
+	<Text id="NewIcon" text="New"/>
+	<Text id="YouDidIt" text="YOU DID IT!"/>
+	<Text id="NewCostume" text="CHECK OUT YOUR NEW COSTUME!"/>
+	<Text id="NewARPict" text="CHECK OUT YOUR NEW GOODIES!"/>
+	<Text id="NewWallpaper" text="CHECK OUT YOUR NEW WALLPAPER!"/>
+	<Text id="NewEnvironment" text="CHECK OUT YOUR NEW ENVIRONMENT!"/>
+	<Text id="NewStripe" text="CHECK OUT YOUR NEW COMIC!"/>
+	<Text id="FindAllMoves" text="Find all the raving moves of your Rabbid!"/>
+	<Text id="CurrentScore" text="Your current score is: "/>
+	<Text id="Videos" text="Videos"/>
+	<Text id="Wallpapers" text="Wallpapers"/>
+	<Text id="Photos" text="Photos"/>
+	<Text id="Stripes" text="Comics"/>
+	<Text id="Facebook" text="Facebook"/>
+	<Text id="EnableSound" text="Enable sound?"/>
+	<Text id="DeletePicture" text="Delete picture?"/>
+	<Text id="ConfirmCostume" text="Select this costume?"/>
+	<Text id="ConfirmEnvironment" text="Select this environment?"/>
+	<Text id="ConfirmResetSave" text="Reset save?"/>
+	<Text id="ConfirmEnableMusic" text="Enable sound?"/>
+	<Text id="ConfirmDisableMusic" text="Disable sound?"/>
+	<Text id="AchievementNetwork" text="Achievement Network"/>
+	<Text id="Store" text="Store"/>
+	<Text id="historypack_Title" text="History Pack"/>
+	<Text id="historypack_Describe" text="New for your Rabbid's app - the full works! 5 historical costumes, 5 items containing all kinds of jokes, 5 environments, 5 wallpapers and 24 new rabbid poses, each ready to have their snap taken by your side. Watch out, you have to strike a rabbid pose before sending them on to all your friends!"/>
+	<Text id="moustachpack_Title" text="Moustach Pack"/>
+	<Text id="moustachpack_Describe" text="Discover exclusive features for your favorite Rabbids! Give them incredible moustaches, unlock brand new items and delirious animations! And don't forget to send all your wildest snapshots to your friends! "/>
+	<Text id="ResetSave" text="Reset Save"/>
+	<Text id="Achievements" text="Achievements"/>
+	<Text id="Leaderboards" text="Leaderboard"/>
+	<Text id="NewHighScore" text="New high score"/>
+	<Text id="NetworkConnectionRequired" text="You need to be connected to a network to use this feature"/>
+	<Text id="RestoreTransaction" text="Restore previous purchases"/>
+	<Text id="Buy" text="Buy"/>
+	<Text id="PurchaseDisable" text="Purchasing disabled"/>
+	<Text id="PurchaseFailed" text="Purchase failed"/>
+	<Text id="PurchaseSucceed" text="Purchase successful"/>
+	<Text id="ProductListRequestFailed" text="Connection lost. Please try later!"/>
+	<Text id="RestoreTransactionSucceded" text="Previous purchases restored."/>
+	<Text id="RestoreTransactionFailed" text="Previous purchase restore failed."/>
+	<Text id="EmptyStore" text="You can't buy anymore."/>
+	<Text id="ImgSizeError" text="The selected image size is too big."/>
+	<Text id="CheckOutMyRabbidWallpaper" text="Check out my Rabbid wallpaper!"/>
+	<Text id="CheckOutCoolWallpaper" text="This is a cool wallpaper. Check it out!"/>
+	<Text id="SaveToGallery" text="Save to my gallery"/>
+	<Text id="SavedInAlbum" text="The image was saved in the album"/>
+	<Text id="ShareOnFacebook" text="Share on Facebook"/>
+	<Text id="Share" text="Share"/>
+	<Text id="Send" text="Send"/>
+	<Text id="SendByMail" text="Send by email"/>
+	<Text id="PictureSent" text="Picture sent successfully"/>
+	<Text id="PictureSendingFailed" text="Error: Picture send failed"/>
+	<Text id="Photo" text="Photo"/>
+	<Text id="UnableToConnect" text="Unable to connect to the web"/>
+	<Text id="YouNeedInternet" text="You must have access to the Internet in order to use this feature"/>
+	<Text id="YouNeedEmailAccount" text="You must setup an email account"/>
+	<Text id="NoCamera" text="This device doesn't feature a compatible camera, however you can still use an image from your phone image bank."/>
+	<Text id="ReviewTitle" text="Do you like this game?"/>
+	<Text id="ReviewMessage" text="Please review the game if you do!"/>
+	<Text id="RateIt" text="Yes, rate it!"/>
+	<Text id="DontAskAgain" text="Don't ask again"/>
+	<Text id="RemindMeLater" text="Remind me later"/>
+	<Text id="PreEarned_Desc" text="You must unlock this achievement to view its description."/>
+	<Text id="ClownBox_0" text="It is back!"/>
+	<Text id="ClownBox_0_Desc" text="Eat the clown-box!"/>
+	<Text id="Night_0" text="All night long…"/>
+	<Text id="Night_0_Desc" text="Switch the light back on"/>
+	<Text id="Steam_0" text="In the fog..."/>
+	<Text id="Steam_0_Desc" text="Clean the window"/>
+	<Text id="YellowDuck_0" text="What a throw!"/>
+	<Text id="YellowDuck_1" text="Crushed!"/>
+	<Text id="YellowDuck_0_Desc" text="Throw the yellow duck"/>
+	<Text id="YellowDuck_1_Desc" text="Try catching the yellow duck"/>
+	<Text id="Piranha_0" text="Flying piranha!"/>
+	<Text id="Piranha_1" text="What's in?"/>
+	<Text id="Piranha_2" text="The revenge!"/>
+	<Text id="Piranha_0_Desc" text="Make the piranha jump!"/>
+	<Text id="Piranha_1_Desc" text="Put your head in the tank!"/>
+	<Text id="Piranha_2_Desc" text="A fall would be deadly…"/>
+	<Text id="Swatter_0" text="Mind your fingers…"/>
+	<Text id="Swatter_1" text="Shut up!"/>
+	<Text id="Swatter_0_Desc" text="Don't put your fingers anywhere!"/>
+	<Text id="Swatter_1_Desc" text="Beat at own game!"/>
+	<Text id="WCBrush_0" text="Go wash your back"/>
+	<Text id="WCBrush_1" text="Wash your ears"/>
+	<Text id="WCBrush_2" text="Be nice and shut up"/>
+	<Text id="WCBrush_3" text="Brush your teeth!"/>
+	<Text id="WCBrush_0_Desc" text="Use the brush to wash your back"/>
+	<Text id="WCBrush_1_Desc" text="Clean your ears with the brush."/>
+	<Text id="WCBrush_2_Desc" text="Do your make-up with the brush"/>
+	<Text id="WCBrush_3_Desc" text="Brush your teeth with the brush."/>
+	<Text id="Micro_0" text="Does it melt?"/>
+	<Text id="Micro_1" text="That's yummy…"/>
+	<Text id="Micro_2" text="Got the rhythm!"/>
+	<Text id="Micro_0_Desc" text="Lick the microphone!"/>
+	<Text id="Micro_1_Desc" text="Eat the microphone!"/>
+	<Text id="Micro_2_Desc" text="Play your music and sing!"/>
+	<Text id="PhoneReal_0" text="Hang up"/>
+	<Text id="PhoneReal_1" text="Bweeeehllo?"/>
+	<Text id="PhoneReal_2" text="Bwaaa-boom!"/>
+	<Text id="PhoneReal_0_Desc" text="Oops… you hung up the rabbid!"/>
+	<Text id="PhoneReal_1_Desc" text="Answer the phone!"/>
+	<Text id="PhoneReal_2_Desc" text="Hang up the phone!"/>
+	<Text id="Shield_0" text="Rabbid Turtle!"/>
+	<Text id="Shield_1" text="Medievel surfer!"/>
+	<Text id="Shield_2" text="The scariest?"/>
+	<Text id="Shield_0_Desc" text="Wear the shield like a shell!"/>
+	<Text id="Shield_1_Desc" text="Use your shield as a surfboard!"/>
+	<Text id="Shield_2_Desc" text="Shine up your shield like a brand new coin!"/>
+	<Text id="Jetpack_0" text="Spinning-top rabbid"/>
+	<Text id="Jetpack_1" text="Waltzer rabbid"/>
+	<Text id="Jetpack_2" text="Paddle-ball rabbid"/>
+	<Text id="Jetpack_0_Desc" text="Spin, spin, spin!"/>
+	<Text id="Jetpack_1_Desc" text="Launch your jetpack!"/>
+	<Text id="Jetpack_2_Desc" text="Good timing and coordination!"/>
+	<Text id="Guitar_0" text="Scratch beginner!"/>
+	<Text id="Guitar_1" text="Rock teeth!"/>
+	<Text id="Guitar_2" text="Pay your rockstar!"/>
+	<Text id="Guitar_0_Desc" text="Play upside down guitar…"/>
+	<Text id="Guitar_1_Desc" text="Play the guitar with your teeth!"/>
+	<Text id="Guitar_2_Desc" text="Smash your guitar!"/>
+	<Text id="EgyptianToiletPaper_0" text="Indigestible…"/>
+	<Text id="EgyptianToiletPaper_1" text="I got it!"/>
+	<Text id="EgyptianToiletPaper_2" text="Bad juggler!"/>
+	<Text id="EgyptianToiletPaper_0_Desc" text="Taste the papyrus!"/>
+	<Text id="EgyptianToiletPaper_1_Desc" text="Read the papyrus!"/>
+	<Text id="EgyptianToiletPaper_2_Desc" text="Try to juggle with the roll!"/>
+	<Text id="PopGun_0" text="Shoot the rabbid!"/>
+	<Text id="PopGun_1" text="Lucky Rabbid! "/>
+	<Text id="PopGun_2" text="Over-curious rabbid!"/>
+	<Text id="PopGun_0_Desc" text="Try to disarm the rabbid!"/>
+	<Text id="PopGun_1_Desc" text="Shoot without thinking!"/>
+	<Text id="PopGun_2_Desc" text="See why the gun is jammed!"/>
+	<Text id="Point_Single" text="point"/>
+	<Text id="Point_Plurial" text="points"/>
+	<Text id="PhoneReal_Hud" text="A Raving Call"/>
+	<Text id="Leaderboard_Title" text="Leaderboard"/>
+	<Text id="CheckOutMyRabbidPhoto" text="Check out my Rabbid picture!"/>
+	<Text id="PurchaseBuy" text="Bwuuuuuuuy"/>
+	<Text id="PurchaseInstalled" text="Already installed"/>
+	<Text id="PurchaseEmpty" text="No purchase found for this application"/>
+	<Text id="AppStoreApplicationDetails" text="There is a Rabbid stuck in your device!     Get your fingers on the brand new version of the Rabbids app’ and enjoy yourself torturing and interacting with your very own Rabbid.  With the new Rabbids app’, discover new moves and interactive accessories to mess with your captive Rabbid to your heart’s delight; take memorable photos with him and share your raving pictures with your community through Facebook; get direct access to the latest news, videos, wallpapers, etc. directly on your device.   Key Features  Tease your Rabbid… Tickle, toss or shake your captive Rabbid and play tricks on him thanks to new interactive objects like the toilet brush or the goldfish...oops...piranha! Try to find as fast as possible all the madcap interactions available in the app’ and compare your scores with your friends on Game Center.  Strike a pose with your Rabbid! Immortalize unique moments with your Rabbid. Upload a photo or take one and use the photo tool to create crazy pictures with the Rabbids. Share your unique creations with your friends by email or Facebook and spread the Rabbids attitude!  Keep your finger on the pulse of the Net’s craziest community! Stay connected with the Rabbids Community thanks to the facebook newsfeed, get access and check out the latest Rabbids Youtube videos directly on your device.   Rabbidize your phone! Unlock tons of new wacky playthings: exclusive wallpapers, delirious videos, images (..) and give a new style to your Rabbid’s playground thanks to new thematic backgrounds.   More surprises for the Rabbids addicts Want more? Buy additional thematic content including exclusive costumes to pimp your Rabbid, gags, wallpapers and an extended version of the photo tool."/>
+	<Text id="Leaderboards_name" text="GamerTag"/>
+	<Text id="Leaderboards_rank" text="Ranking"/>
+	<Text id="Leaderboards_score" text="Score"/>
+	<Text id="Tracklist_title" text="TRACK LIST"/>
+	<Text id="Tracklist_name" text="Name"/>
+	<Text id="Tracklist_duration" text="Duration"/>
+	<Text id="Tracklist_noMusic" text="No music available"/>
+	<Text id="AskBuyScreen_title" text="Do you want to buy the game?"/>
+	<Text id="AskBuyScreen_desc" text="To unlock achievements and access additional content you must buy the game"/>
+	<Text id="Ringtone1Title" text="Farts"/>
+	<Text id="Ringtone2Title" text="Fart'nLaugh"/>
+	<Text id="Ringtone3Title" text="MadLaugh"/>
+	<Text id="Ringtone4Title" text="Exploding Phone"/>
+	<Text id="Ringtone5Title" text="Singers"/>
+	<Text id="RingtoneSaved" text="Ringtone saved"/>
+	<Text id="RingtoneError" text="An error ocurred"/>
+	<Text id="RingtoneErrorSave" text="Ringtone could not be saved"/>
+	<Text id="RingtoneScreenTitle" text="Ringtones"/>
+	<Text id="LiveTileTitle" text="Rabbids"/>
+	<Text id="UnlockFull" text="Unlock full version"/>
+	<Text id="ZuneErrorMsgBox_title" text="An error occurred"/>
+	<Text id="ZuneErrorMsgBox_desc" text="Is Zune running? If so disconnect from Zune and restart the game to gain access to the media library"/>
+	<Text id="ZuneErrorMsgBox_ok" text="ok"/>
+	<Text id="UpdateAvailableTitle" text="An update is available!"/>
+	<Text id="UpdateAvailableDesc" text="This update is required to connect to Xbox LIVE. Update now?"/>
+	<Text id="PleaseWaitAlt1" text="Loading. Hang about here for a while, OK?"/>
+	<Text id="PleaseWaitAlt2" text="Loading. Perhaps now would be a good time for a bathroom break?"/>
+	<Text id="PleaseWaitAlt3" text="Loading. Just whistle a tune or something to pass the time."/>
+	<Text id="PleaseWaitAlt4" text="Loading. Meanwhile, how have you been doing?"/>
+	<Text id="PleaseWaitAlt5" text="Loading. Don't you have a book with you or something?"/>
+	<Text id="PleaseWaitAlt6" text="Loading will be finished shortly. Please do NOT lose your patience."/>
+	<Text id="PleaseWaitAlt7" text="There may be a slight delay while the system loads all the stuff and whatnot."/>
+	<Text id="PleaseWaitAlt8" text="Please be patient while the system loads all the digital bits and bobs."/>
+	<Text id="PleaseWaitAlt9" text="Just a second. The system is busy sorting out the zeros from the ones."/>
+	<Text id="minigames_yellowduck_title" text="Toy late duck"/>
+	<Text id="minigames_yellowduck_description" text="You've unlocked the rubber duck."/>
+	<Text id="minigames_yellowduck_howTo" text="Find all the ways to interact and unlock the rubber duck."/>
+	<Text id="minigames_piranha_title" text="Flying piranha!"/>
+	<Text id="minigames_piranha_description" text="You've unlocked the piranha fish."/>
+	<Text id="minigames_piranha_howTo" text="Find all the ways to interact and unlock the piranha fish."/>
+	<Text id="minigames_swatter_title" text="Finger snap"/>
+	<Text id="minigames_swatter_description" text="You've unlocked the mousetrap."/>
+	<Text id="minigames_swatter_howTo" text="Find all the ways to interact and unlock the mousetrap."/>
+	<Text id="minigames_wcbrush_title" text="Impeccable porcelain"/>
+	<Text id="minigames_wcbrush_description" text="You've unlocked the toilet brush."/>
+	<Text id="minigames_wcbrush_howTo" text="Find all the ways to interact and unlock the toilet brush."/>
+	<Text id="minigames_micro_title" text="Testing testing"/>
+	<Text id="minigames_micro_description" text="You've unlocked the microphone."/>
+	<Text id="minigames_micro_howTo" text="Find all the ways to interact and unlock the microphone."/>
+	<Text id="minigames_phonereal_title" text="Bwaaahllo!"/>
+	<Text id="minigames_phonereal_description" text="You've unlocked the telephone."/>
+	<Text id="minigames_phonereal_howTo" text="Find all the ways to interact and unlock the telephone."/>
+	<Text id="minigames_popgun_title" text="Run Rabbid, run Rabbid, run run run"/>
+	<Text id="minigames_popgun_description" text="You've unlocked the pop gun."/>
+	<Text id="minigames_popgun_howTo" text="Find all the ways to interact and unlock the pop gun."/>
+	<Text id="minigames_jetpack_title" text="Jet pack your bags"/>
+	<Text id="minigames_jetpack_description" text="You've unlocked the jet pack."/>
+	<Text id="minigames_jetpack_howTo" text="Find all the ways to interact and unlock the jetpack."/>
+	<Text id="minigames_guitar_title" text="Guitar Zero"/>
+	<Text id="minigames_guitar_description" text="You've unlocked the guitar."/>
+	<Text id="minigames_guitar_howTo" text="Find all the ways to interact and unlock the guitar."/>
+	<Text id="minigames_shield_title" text="Joust Dunce"/>
+	<Text id="minigames_shield_description" text="You've unlocked the shield."/>
+	<Text id="minigames_shield_howTo" text="Find all the ways to interact and unlock the shield."/>
+	<Text id="minigames_egyptiantoiletpaper_title" text="Triple-thickness papyrus"/>
+	<Text id="minigames_egyptiantoiletpaper_description" text="You've unlocked the toilet paper."/>
+	<Text id="minigames_egyptiantoiletpaper_howTo" text="Find all the ways to interact and unlock the toilet paper."/>
+	<Text id="minigames_bow_title" text="Bulls in your eye"/>
+	<Text id="minigames_bow_description" text="You've unlocked the bow."/>
+	<Text id="minigames_bow_howTo" text="Find all the ways to interact and unlock the bow."/>
+	<Text id="minigames_ghetoblaster_title" text="Fight The Power!"/>
+	<Text id="minigames_ghetoblaster_description" text="You've unlocked the ghetto blaster."/>
+	<Text id="minigames_ghetoblaster_howTo" text="Find all the ways to interact and unlock the ghetto blaster."/>
+	<Text id="minigames_nunchaku_title" text="Nun shack oops"/>
+	<Text id="minigames_nunchaku_description" text="You've unlocked the nunchaku."/>
+	<Text id="minigames_nunchaku_howTo" text="Find all the ways to interact and unlock the nunchaku."/>
+	<Text id="minigames_rugbyball_title" text="Scrum fun"/>
+	<Text id="minigames_rugbyball_description" text="You've unlocked the rugby ball."/>
+	<Text id="minigames_rugbyball_howTo" text="Find all the ways to interact and unlock the rugby ball."/>
+	<Text id="minigames_sausagepolice_title" text="Hands up!"/>
+	<Text id="minigames_sausagepolice_description" text="You've unlocked the sausage."/>
+	<Text id="minigames_sausagepolice_howTo" text="Find all the ways to interact and unlock the sausage."/>
+	<Text id="minigames_all_title" text="Super Smart"/>
+	<Text id="minigames_all_description" text="You've found all the ways to interact with the objects and the Rabbid."/>
+	<Text id="minigames_all_howTo" text="Find all the ways to interact with the objects and the Rabbid."/>
+	<Text id="sharePicture_title" text="Say cheese"/>
+	<Text id="sharePicture_description" text="You've shared a photo of a Raving Rabbid."/>
+	<Text id="sharePicture_howTo" text="Share a photo of a Raving Rabbid with your friends."/>
+	<Text id="useTrackList_title" text="Get the party started"/>
+	<Text id="useTrackList_description" text="You've made your Raving Rabbid dance."/>
+	<Text id="useTrackList_howTo" text="Make your Raving Rabbid dance to your favourite track."/>
+	<Text id="changeCostume_title" text="Fashion fiend"/>
+	<Text id="changeCostume_description" text="You've tried on a new costume."/>
+	<Text id="changeCostume_howTo" text="Change your Raving Rabbid's costume."/>
+</Localization> 

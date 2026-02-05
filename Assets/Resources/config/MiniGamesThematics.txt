@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<MiniGamesThematics>
+
+	<Costume name="Naked">
+	
+		<MiniGame name="ClownBox" />
+		<MiniGame name="YellowDuck" />
+		<MiniGame name="Night" />
+		<MiniGame name="Steam" />
+		<MiniGame name="Micro" />
+		<MiniGame name="PhoneReal" />
+		<MiniGame name="Swatter" />
+		<MiniGame name="WCBrush" />
+		<MiniGame name="Piranha" />
+		
+		<MiniGame name="PopGun" />
+		<MiniGame name="Guitar" />
+		<MiniGame name="Jetpack" />
+		<MiniGame name="Shield" />
+		<MiniGame name="EgyptianToiletPaper" />
+		
+		<MiniGame name="Bow" />
+		<MiniGame name="GhettoBlaster" />
+		<MiniGame name="Nunchaku" />
+		<MiniGame name="RugbyBall" />
+		<MiniGame name="SausagePolice" />
+		
+	</Costume>
+
+</MiniGamesThematics>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-16" standalone="no"?>
+<Localization>
+	<Text id="Yes" text="Oui"/>
+	<Text id="No" text="Non"/>
+	<Text id="Cancel" text="Annuler"/>
+	<Text id="PleaseWait" text="Merci de patienter... "/>
+	<Text id="StartGame" text="Mon Lapin"/>
+	<Text id="OutWorld" text="Monde des Lapins"/>
+	<Text id="PhotoRoom" text="Seance Photo"/>
+	<Text id="Music" text="Musique"/>
+	<Text id="Options" text="Options"/>
+	<Text id="CreditsTitle" text="Crédits"/>
+	<Text id="Quit" text="Quitter"/>
+	<Text id="NewMove" text="Nouveau mouvement !"/>
+	<Text id="NewIcon" text="Nouveau"/>
+	<Text id="YouDidIt" text="Bien joué !"/>
+	<Text id="NewCostume" text="Regarde ton nouveau costume !"/>
+	<Text id="NewARPict" text="Regarde tes nouveaux goodies !"/>
+	<Text id="NewWallpaper" text="Regarde ton nouveau fond d'écran !"/>
+	<Text id="NewEnvironment" text="Regarde ton nouveau décor !"/>
+	<Text id="NewStripe" text="Regarde ta nouvelle BD !"/>
+	<Text id="FindAllMoves" text="Découvre tous les mouvements crétins de ton lapin !"/>
+	<Text id="CurrentScore" text="Ton score actuel : "/>
+	<Text id="Videos" text="Vidéos"/>
+	<Text id="Wallpapers" text="Fonds d'écran"/>
+	<Text id="Photos" text="Photos"/>
+	<Text id="Stripes" text="BDs"/>
+	<Text id="Facebook" text="Facebook"/>
+	<Text id="EnableSound" text="Activer le son ?"/>
+	<Text id="DeletePicture" text="Supprimer cette photo ?"/>
+	<Text id="ConfirmCostume" text="Choisir ce costume ?"/>
+	<Text id="ConfirmEnvironment" text="Choisir ce décor ?"/>
+	<Text id="ConfirmResetSave" text="Réinitialiser la sauvegarde ?"/>
+	<Text id="ConfirmEnableMusic" text="Activer le son ?"/>
+	<Text id="ConfirmDisableMusic" text="Désactiver le son ?"/>
+	<Text id="AchievementNetwork" text="Réseau des succès"/>
+	<Text id="Store" text="Boutique en ligne"/>
+	<Text id="historypack_Title" text="Pack Historique"/>
+	<Text id="historypack_Describe" text="Du nouveau pour ton application ! 5 costumes historiques, 5 objets débloquant des gags en tous genres, 5 décors, 5 fonds d'écran et 24 nouvelles poses de lapins prêts à se faire tirer le portrait à tes côtés. Attention, pose crétine obligatoire avant de les envoyer à tous tes amis ! "/>
+	<Text id="moustachpack_Title" text="Pack Moustache"/>
+	<Text id="moustachpack_Describe" text="Découvre de tous nouveaux contenus pour tes Lapins Crétins préférés !  Déguise-les avec des moustaches déjantées, débloque  des objets exclusifs et des gags totalement délirants. Et n'oublie pas d'envoyer tes clichés totalement crétins à tous tes amis !"/>
+	<Text id="ResetSave" text="Réinitialiser la sauvegarde"/>
+	<Text id="Achievements" text="Tes succès débloqués"/>
+	<Text id="Leaderboards" text="Ton classement"/>
+	<Text id="NewHighScore" text="Meilleur score !"/>
+	<Text id="NetworkConnectionRequired" text="Tu dois être connecté à un réseau pour utiliser cette fonctionnalité."/>
+	<Text id="RestoreTransaction" text="Restaurer les anciens achats"/>
+	<Text id="Buy" text="Acheter"/>
+	<Text id="PurchaseDisable" text="L'achat est désactivé"/>
+	<Text id="PurchaseFailed" text="Ton achat a échoué"/>
+	<Text id="PurchaseSucceed" text="Ton achat est disponible"/>
+	<Text id="ProductListRequestFailed" text="La connexion a été perdue. Réessaye plus tard !"/>
+	<Text id="RestoreTransactionSucceded" text="Les anciennes transactions ont été restaurées."/>
+	<Text id="RestoreTransactionFailed" text="La restauration des anciennes transactions a échoué."/>
+	<Text id="EmptyStore" text="Tu ne peux rien acheter de plus."/>
+	<Text id="ImgSizeError" text="L'image sélectionnée est trop grande."/>
+	<Text id="CheckOutMyRabbidWallpaper" text="Regarde mon fond d'écran Lapins Crétins !"/>
+	<Text id="CheckOutCoolWallpaper" text="Un fond d'écran bien crétin. Regarde !"/>
+	<Text id="SaveToGallery" text="Enregistrer dans mes photos"/>
+	<Text id="SavedInAlbum" text="Sauvegarde dans l'album réussie"/>
+	<Text id="ShareOnFacebook" text="Partager sur Facebook"/>
+	<Text id="Share" text="Partager"/>
+	<Text id="Send" text="Envoyer"/>
+	<Text id="SendByMail" text="Envoyer par e-mail"/>
+	<Text id="PictureSent" text="Image envoyée avec succès"/>
+	<Text id="PictureSendingFailed" text="Échec de l'envoi"/>
+	<Text id="Photo" text="Photo"/>
+	<Text id="UnableToConnect" text="Pas de connexion Internet"/>
+	<Text id="YouNeedInternet" text="Tu dois te connecter à Internet pour pouvoir utiliser cette fonctionnalité."/>
+	<Text id="YouNeedEmailAccount" text="Tu dois configurer un compte de courrier électronique."/>
+	<Text id="NoCamera" text="Cet appareil ne dispose pas de caméra compatible. Vous pouvez néanmoins charger une image depuis la bibliothèque de votre téléphone."/>
+	<Text id="ReviewTitle" text="As-tu apprécié ce jeu ?"/>
+	<Text id="ReviewMessage" text="Si c'est le cas, note-le !"/>
+	<Text id="RateIt" text="Note-le !"/>
+	<Text id="DontAskAgain" text="Ne pas reposer la question"/>
+	<Text id="RemindMeLater" text="Me le rappeler plus tard"/>
+	<Text id="PreEarned_Desc" text="Tu dois débloquer ce succès pour voir sa description."/>
+	<Text id="ClownBox_0" text="Il est de retour !"/>
+	<Text id="ClownBox_0_Desc" text="Mange la boîte à clown !"/>
+	<Text id="Night_0" text="Toute la nuit…"/>
+	<Text id="Night_0_Desc" text="Rallume la lumière !"/>
+	<Text id="Steam_0" text="Dans le brouillard…"/>
+	<Text id="Steam_0_Desc" text="Nettoie la fenêtre !"/>
+	<Text id="YellowDuck_0" text="Mais quel lancer !"/>
+	<Text id="YellowDuck_1" text="Écrasé !"/>
+	<Text id="YellowDuck_0_Desc" text="Jette le canard jaune !"/>
+	<Text id="YellowDuck_1_Desc" text="Essaie de rattraper le canard jaune !"/>
+	<Text id="Piranha_0" text="Piranha volant !"/>
+	<Text id="Piranha_1" text="Qu'y a-t-il ?"/>
+	<Text id="Piranha_2" text="La revanche !"/>
+	<Text id="Piranha_0_Desc" text="Fais sauter le Piranha !"/>
+	<Text id="Piranha_1_Desc" text="Mets ta tête dans le bocal !"/>
+	<Text id="Piranha_2_Desc" text="Une chute serait fatale…"/>
+	<Text id="Swatter_0" text="Attention les doigts…"/>
+	<Text id="Swatter_1" text="Tais-toi !"/>
+	<Text id="Swatter_0_Desc" text="Ne mets pas tes doigts n'importe où !"/>
+	<Text id="Swatter_1_Desc" text="Tel est pris qui croyait prendre !"/>
+	<Text id="WCBrush_0" text="Va te laver le dos !"/>
+	<Text id="WCBrush_1" text="Lave tes oreilles !"/>
+	<Text id="WCBrush_2" text="Sois belle et tais-toi !"/>
+	<Text id="WCBrush_3" text="Lave-toi les dents !"/>
+	<Text id="WCBrush_0_Desc" text="Utilise la brosse pour te laver le dos."/>
+	<Text id="WCBrush_1_Desc" text="Nettoie tes oreilles avec la brosse."/>
+	<Text id="WCBrush_2_Desc" text="Maquille-toi avec la brosse."/>
+	<Text id="WCBrush_3_Desc" text="Brosse tes dents avec la brosse."/>
+	<Text id="Micro_0" text="Ça fond ?"/>
+	<Text id="Micro_1" text="C'est bon…"/>
+	<Text id="Micro_2" text="Allez, du rythme !"/>
+	<Text id="Micro_0_Desc" text="Lèche le micro !"/>
+	<Text id="Micro_1_Desc" text="Mange le micro !"/>
+	<Text id="Micro_2_Desc" text="Lance ta musique et chante !"/>
+	<Text id="PhoneReal_0" text="Raccrocher "/>
+	<Text id="PhoneReal_1" text="Bwaaahllo ?"/>
+	<Text id="PhoneReal_2" text="Bwaaa-boum !"/>
+	<Text id="PhoneReal_0_Desc" text="Oups… tu as raccroché le lapin !"/>
+	<Text id="PhoneReal_1_Desc" text="Décroche le téléphone !"/>
+	<Text id="PhoneReal_2_Desc" text="Raccroche le téléphone !"/>
+	<Text id="Shield_0" text="Tortue Lapin !"/>
+	<Text id="Shield_1" text="Surfeur médiéval !"/>
+	<Text id="Shield_2" text="Le plus effrayant ?"/>
+	<Text id="Shield_0_Desc" text="Porte le bouclier comme une carapace !"/>
+	<Text id="Shield_1_Desc" text="Utilise ton bouclier comme une planche de surf !"/>
+	<Text id="Shield_2_Desc" text="Fais briller ton bouclier comme un sou neuf !"/>
+	<Text id="Jetpack_0" text="Lapin toupie !"/>
+	<Text id="Jetpack_1" text="Lapin valseur"/>
+	<Text id="Jetpack_2" text="Jokari Lapin"/>
+	<Text id="Jetpack_0_Desc" text="Tourne, tourne, tourne !"/>
+	<Text id="Jetpack_1_Desc" text="Fais décoller ton jet pack !"/>
+	<Text id="Jetpack_2_Desc" text="Aie le bon timing et du doigté !"/>
+	<Text id="Guitar_0" text="Gratteur débutant !"/>
+	<Text id="Guitar_1" text="Les dents du rock !"/>
+	<Text id="Guitar_2" text="Paye ta rockstar !"/>
+	<Text id="Guitar_0_Desc" text="Joue de la guitare à l'envers…"/>
+	<Text id="Guitar_1_Desc" text="Joue de la guitare avec tes dents !"/>
+	<Text id="Guitar_2_Desc" text="Détruis ta guitare !"/>
+	<Text id="EgyptianToiletPaper_0" text="C'est indigeste…"/>
+	<Text id="EgyptianToiletPaper_1" text="J'ai compris !"/>
+	<Text id="EgyptianToiletPaper_2" text="Mauvais jongleur !"/>
+	<Text id="EgyptianToiletPaper_0_Desc" text="Goûte le papyrus !"/>
+	<Text id="EgyptianToiletPaper_1_Desc" text="Lis le papyrus !"/>
+	<Text id="EgyptianToiletPaper_2_Desc" text="Essaye de jongler avec le rouleau !"/>
+	<Text id="PopGun_0" text="Tir au lapin !"/>
+	<Text id="PopGun_1" text="Lucky Lapin"/>
+	<Text id="PopGun_2" text="Lapin trop curieux !"/>
+	<Text id="PopGun_0_Desc" text="Essaie de désarmer le lapin !"/>
+	<Text id="PopGun_1_Desc" text="Tire sans réfléchir !"/>
+	<Text id="PopGun_2_Desc" text="Regarde pourquoi le pistolet est enrayé !"/>
+	<Text id="Point_Single" text="point"/>
+	<Text id="Point_Plurial" text="points"/>
+	<Text id="PhoneReal_Hud" text="Un Appel Crétin"/>
+	<Text id="Leaderboard_Title" text="Classement"/>
+	<Text id="CheckOutMyRabbidPhoto" text="Regarde ma photo Lapins Crétins !"/>
+	<Text id="PurchaseBuy" text="Bwaaacheter"/>
+	<Text id="PurchaseInstalled" text="Déjà Installé"/>
+	<Text id="PurchaseEmpty" text="Aucun achat trouvé pour cette application "/>
+	<Text id="AppStoreApplicationDetails" text="Un Lapin Crétin est coincé dans votre appareil ! Débloquez des tonnes de gadgets crétins : des fonds d'écrans exclusifs, des vidéos délires, des images (...) et donnez un style unique au terrain de jeu de votre lapin grâce aux nouveaux décors thématiques.  Attrapez la dernière version de l'application crétine et vous pourrez interagir et torturer à votre guise avec votre Lapin Crétin à vous tout seul.  Cette nouvelle application crétine vous donne de nouveaux mouvements à découvrir et des accessoires pour effectuer toutes sortes d'expériences sur votre Lapin Crétin; vous pourrez aussi le prendre en photo et partager ces photos via Facebook. Obtenez un accès direct aux dernières nouvelles, vidéos, fonds d'écran etc. directement sur votre appareil.  Fonctionnalités clés  Torturez votre Lapin Crétin ! Vous pouvez chatouiller, projeter ou secouer votre prisonnier ou lui jouer des tours de cochon avec les nouveaux objets interactifs tels que la brosse de toilettes ou le poisson rouge... Ha ben non en fait c'est un piranha ! Découvrez le plus rapidement possible toutes les interactions possibles disponibles dans cette application et comparez vos scores avec vos amis sur le Game Center.  Prenez la pose avec votre Lapin Crétin ! Immortalisez ces moments crétins avec votre lapin... Téléchargez une photo ou prenez-en une et utilisez l'outil photo pour créer des photos crétines avec les Lapins Crétins. Partagez vos créations avec tous vos amis par mail ou par Facebook et laissez vous envahir par la Lapins-Crétins attitude !  Restez en contact avec la communauté la plus crétine du net ! Restez connecté avec la communauté des Lapins Crétins grâce au fil d'actualités de Facebook, soyez le premier à accéder aux nouvelles vidéos des Lapins Crétins sur Youtube directement sur votre appareil.  Lapin cré...tunez votre appareil ! Débloquez des tonnes de nouveaux jouets : fonds d'écran exclusifs, vidéos délires, images (...) et relookez le terrain de jeu de votre Lapin Crétin grâce aux nouveaux décors thématiques.  Encore plus de surprises pour les dingues des Lapins ! Vous en voulez encore plus ? Achetez le contenu thématique supplémentaire comprenant des costumes exclusifs pour votre lapin, des gags, des fonds d'écran et une version améliorée de l'outil photo."/>
+	<Text id="Leaderboards_name" text="GamerTag"/>
+	<Text id="Leaderboards_rank" text="Classement"/>
+	<Text id="Leaderboards_score" text="Score"/>
+	<Text id="Tracklist_title" text="LISTE DE TITRES"/>
+	<Text id="Tracklist_name" text="Nom"/>
+	<Text id="Tracklist_duration" text="Durée"/>
+	<Text id="Tracklist_noMusic" text="Aucune musique disponible"/>
+	<Text id="AskBuyScreen_title" text="Veux-tu acheter le jeu ?"/>
+	<Text id="AskBuyScreen_desc" text="Pour débloquer les succès et accéder aux contenus additionnels, il faut acheter le jeu."/>
+	<Text id="Ringtone1Title" text="Pets"/>
+	<Text id="Ringtone2Title" text="Pets &amp; rires"/>
+	<Text id="Ringtone3Title" text="Fou rire"/>
+	<Text id="Ringtone4Title" text="Téléphone explosif"/>
+	<Text id="Ringtone5Title" text="Chanteurs"/>
+	<Text id="RingtoneSaved" text="Sonnerie sauvegardée"/>
+	<Text id="RingtoneError" text="Une erreur est survenue."/>
+	<Text id="RingtoneErrorSave" text="La sonnerie n'a pas pu être sauvegardée."/>
+	<Text id="RingtoneScreenTitle" text="Sonneries"/>
+	<Text id="LiveTileTitle" text="Lapins Crétins"/>
+	<Text id="UnlockFull" text="Débloquer la version complète"/>
+	<Text id="ZuneErrorMsgBox_title" text="Une erreur est survenue."/>
+	<Text id="ZuneErrorMsgBox_desc" text="Zune est-il ouvert ? Si oui, déconnecte-toi de Zune et redémarre le jeu pour pouvoir accéder à la bibliothèque des médias."/>
+	<Text id="ZuneErrorMsgBox_ok" text="OK"/>
+	<Text id="UpdateAvailableTitle" text="Une mise à jour est disponible !"/>
+	<Text id="UpdateAvailableDesc" text="Cette mise à jour nécessite une connexion au Xbox LIVE. Mettre à jour maintenant ?"/>
+	<Text id="PleaseWaitAlt1" text="Chargement en cours... Merci de poireauter un instant."/>
+	<Text id="PleaseWaitAlt2" text="Chargement en cours… C'est le moment de passer aux toilettes !"/>
+	<Text id="PleaseWaitAlt3" text="Chargement en cours… Sifflote un peu, ça fait passer le temps."/>
+	<Text id="PleaseWaitAlt4" text="Chargement en cours... Et pendant ce temps-là, sinon, sinon, ça va ? "/>
+	<Text id="PleaseWaitAlt5" text="Chargement en cours… T'avais pas un truc à vérifier ailleurs pendant ce temps-là ?"/>
+	<Text id="PleaseWaitAlt6" text="Ce chargement ne durera plus très longtemps. Garde ton calme."/>
+	<Text id="PleaseWaitAlt7" text="Un peu d'attente à prévoir pendant que le système charge des trucs et des machins."/>
+	<Text id="PleaseWaitAlt8" text="Un peu de patience pendant que le système charge des bricoles et des bidules."/>
+	<Text id="PleaseWaitAlt9" text="Alors juste un instant, le système mouline des trucmuches."/>
+	<Text id="minigames_yellowduck_title" text="Canard biaisé"/>
+	<Text id="minigames_yellowduck_description" text="Tu as débloqué le canard de bain."/>
+	<Text id="minigames_yellowduck_howTo" text="Trouve les interactions et débloque le canard de bain."/>
+	<Text id="minigames_piranha_title" text="Piranha volant !"/>
+	<Text id="minigames_piranha_description" text="Tu as débloqué le piranha."/>
+	<Text id="minigames_piranha_howTo" text="Trouve les interactions et débloque le piranha."/>
+	<Text id="minigames_swatter_title" text="Attention les doigts…"/>
+	<Text id="minigames_swatter_description" text="Tu as débloqué le piège à souris."/>
+	<Text id="minigames_swatter_howTo" text="Trouve les interactions et débloque le piège à souris."/>
+	<Text id="minigames_wcbrush_title" text="Et que ça brille ! "/>
+	<Text id="minigames_wcbrush_description" text="Tu as débloqué la brosse WC."/>
+	<Text id="minigames_wcbrush_howTo" text="Trouve les interactions et débloque la brosse WC."/>
+	<Text id="minigames_micro_title" text="Bonjour micro"/>
+	<Text id="minigames_micro_description" text="Tu as débloqué le micro."/>
+	<Text id="minigames_micro_howTo" text="Trouve les interactions et débloque le micro."/>
+	<Text id="minigames_phonereal_title" text="Bwaaahllo ?"/>
+	<Text id="minigames_phonereal_description" text="Tu as débloqué le téléphone."/>
+	<Text id="minigames_phonereal_howTo" text="Trouve les interactions et débloque le téléphone."/>
+	<Text id="minigames_popgun_title" text="Tir au lapin !"/>
+	<Text id="minigames_popgun_description" text="Tu as débloqué le pistolet à bouchon."/>
+	<Text id="minigames_popgun_howTo" text="Trouve les interactions et débloque le pistolet à bouchon."/>
+	<Text id="minigames_jetpack_title" text="Jet pack de 12"/>
+	<Text id="minigames_jetpack_description" text="Tu as débloqué le jetpack."/>
+	<Text id="minigames_jetpack_howTo" text="Trouve les interactions et débloque le jetpack."/>
+	<Text id="minigames_guitar_title" text="Guitar Zero"/>
+	<Text id="minigames_guitar_description" text="Tu as débloqué la guitare."/>
+	<Text id="minigames_guitar_howTo" text="Trouve les interactions et débloque la guitare."/>
+	<Text id="minigames_shield_title" text="Médiéval Star"/>
+	<Text id="minigames_shield_description" text="Tu as débloqué le bouclier."/>
+	<Text id="minigames_shield_howTo" text="Trouve les interactions et débloque le bouclier."/>
+	<Text id="minigames_egyptiantoiletpaper_title" text="Papyrus épaisseur-triple"/>
+	<Text id="minigames_egyptiantoiletpaper_description" text="Tu as débloqué le papier toilette."/>
+	<Text id="minigames_egyptiantoiletpaper_howTo" text="Trouve les interactions et débloque le papier toilette."/>
+	<Text id="minigames_bow_title" text="Pas une flèche"/>
+	<Text id="minigames_bow_description" text="Tu as débloqué l'arc."/>
+	<Text id="minigames_bow_howTo" text="Trouve les interactions et débloque l'arc."/>
+	<Text id="minigames_ghetoblaster_title" text="Fight the power !"/>
+	<Text id="minigames_ghetoblaster_description" text="Tu as débloqué le Ghetto-Blaster."/>
+	<Text id="minigames_ghetoblaster_howTo" text="Trouve les interactions et débloque le Ghetto-Blaster."/>
+	<Text id="minigames_nunchaku_title" text="Nunch-à-coups"/>
+	<Text id="minigames_nunchaku_description" text="Tu as débloqué le nunchaku."/>
+	<Text id="minigames_nunchaku_howTo" text="Trouve les interactions et débloque le nunchaku."/>
+	<Text id="minigames_rugbyball_title" text="L’Ovalie ballot"/>
+	<Text id="minigames_rugbyball_description" text="Tu as débloqué le ballon de rugby."/>
+	<Text id="minigames_rugbyball_howTo" text="Trouve les interactions et débloque le ballon de rugby."/>
+	<Text id="minigames_sausagepolice_title" text="Hauts les mains !"/>
+	<Text id="minigames_sausagepolice_description" text="Tu as débloqué la saucisse."/>
+	<Text id="minigames_sausagepolice_howTo" text="Trouve les interactions et débloque la saucisse."/>
+	<Text id="minigames_all_title" text="Super Fortiche"/>
+	<Text id="minigames_all_description" text="Tu as trouvé toutes les interactions des objets et du Lapin."/>
+	<Text id="minigames_all_howTo" text="Trouve toutes les interactions des objets et du Lapin."/>
+	<Text id="sharePicture_title" text="Clic-Claques"/>
+	<Text id="sharePicture_description" text="Tu as partagé une photo de Lapin Crétin."/>
+	<Text id="sharePicture_howTo" text="Partage une photo de Lapin Crétin avec tes amis."/>
+	<Text id="useTrackList_title" text="Mets la fièvre"/>
+	<Text id="useTrackList_description" text="Tu as fait danser ton Lapin Crétin."/>
+	<Text id="useTrackList_howTo" text="Fais danser ton Lapin Crétin sur ta musique préférée."/>
+	<Text id="changeCostume_title" text="Transformiste"/>
+	<Text id="changeCostume_description" text="Tu as essayé un nouveau costume."/>
+	<Text id="changeCostume_howTo" text="Change le costume de ton Lapin Crétin."/>
+</Localization> 

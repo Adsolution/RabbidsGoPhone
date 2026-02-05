@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--	Idle Animations List
+	
+	<Anim name="stand_part01" />			// InGame
+	<Anim name="stand_part02" />			// InGame
+	<Anim name="stand_middle" />			// InGame
+	<Anim name="standby_crazy" />			// InGame
+	<Anim name="knock" />					// InGame
+	<Anim name="standby_cri_de_pres" />		// InGame
+	<Anim name="IchyAss" />					// Customize
+	<Anim name="ComePlay" />				// Customize
+	<Anim name="Yarning" />					// Customize
+	<Anim name="HideSeek" />				// Customize
+	<Anim name="TurnInPlace" />				// Customize
+	<Anim name="BellTap" />					// Customize
+	<Anim name="Tired" />					// Customize
+	<Anim name="Idle_Dance" />				// Customize
+	<Anim name="Idle_Look" />				// Customize
+	<Anim name="Idle_Scratch" />			// Customize
+	<Anim name="Idle_Turn" />				// Customize
+	<Anim name="Idle_Taunt" />				// InGame
+	<Anim name="Idle_YawnFart" />			// InGame
+	<Anim name="Idle_jump" />				// InGame
+
+
+Description:
+
+	This table represents the idle animations that the rabbid can use according to the rabbid state (in game or in customization).
+	
+-->
+
+<IdleAnimationTable>
+
+	<Rabbid name="InGame">
+	
+		<Costume name="Naked">
+			<Anim name="stand_part01" />
+			<Anim name="stand_part02" />
+			<Anim name="stand_middle" />
+			<Anim name="standby_crazy" />
+			<Anim name="knock" />
+			<Anim name="standby_cri_de_pres" />
+			
+			<Anim name="Idle_YawnFart" />
+			<Anim name="Idle_jump" />
+		</Costume>
+		
+		<!-- History Pack -->
+		<Costume name="Astronaut">
+		</Costume>
+		
+		<Costume name="Cowboy">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="Hippy">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="Cleopatra">
+		</Costume>
+		
+		<Costume name="Knight">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<!-- Moustach Pack -->
+		<Costume name="Bow">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="GhettoBlaster">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="Nunchaku">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="SausagePolice">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		<Costume name="RugbyBall">
+			<Anim name="Idle_Taunt" />
+		</Costume>
+		
+		
+	</Rabbid>
+
+	<Rabbid name="Customize">
+	
+		<Costume name="Naked">
+			<Anim name="IchyAss" />
+			<Anim name="ComePlay" />
+			<Anim name="Yarning" />
+			<Anim name="TurnInPlace" />
+			<Anim name="BellTap" />
+			<Anim name="Tired" />
+			<Anim name="Idle_Look" />
+			<Anim name="Idle_Scratch" />
+			<Anim name="Idle_Turn" />
+		</Costume>
+		
+		<!-- History Pack -->
+		<Costume name="Astronaut">
+		</Costume>
+		
+		<Costume name="Cowboy">
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="Hippy">
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="Cleopatra">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="Knight">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<!-- Moustach Pack -->
+		<Costume name="Bow">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="Nunchaku">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="SausagePolice">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="GhettoBlaster">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+		<Costume name="RugbyBall">
+			<Anim name="HideSeek" />
+			<Anim name="Idle_Dance" />
+		</Costume>
+		
+	</Rabbid>
+	
+</IdleAnimationTable>

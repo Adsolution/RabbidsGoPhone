@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-16" standalone="no"?>
+<Localization>
+	<Text id="Yes" text="Sí"/>
+	<Text id="No" text="No"/>
+	<Text id="Cancel" text="Cancelar"/>
+	<Text id="PleaseWait" text="Espera, por favor…"/>
+	<Text id="StartGame" text="Mi Rabbid"/>
+	<Text id="OutWorld" text="Mundo de los Rabbids"/>
+	<Text id="PhotoRoom" text="Fotomaton"/>
+	<Text id="Music" text="Musica"/>
+	<Text id="Options" text="Opciones"/>
+	<Text id="CreditsTitle" text="Créditos"/>
+	<Text id="Quit" text="Salir"/>
+	<Text id="NewMove" text="¡Nuevo movimiento!"/>
+	<Text id="NewIcon" text="Nuevo"/>
+	<Text id="YouDidIt" text="¡Lo conseguiste!"/>
+	<Text id="NewCostume" text="Nuevo traje"/>
+	<Text id="NewARPict" text="Nuevo diseño"/>
+	<Text id="NewWallpaper" text="Nuevo fondo de pantalla"/>
+	<Text id="NewEnvironment" text="Nuevo decorado"/>
+	<Text id="NewStripe" text="Nuevo cómic"/>
+	<Text id="FindAllMoves" text="¡Descubre los locos movimientos de tu Rabbid!"/>
+	<Text id="CurrentScore" text="Puntuación actual"/>
+	<Text id="Videos" text="Vídeos"/>
+	<Text id="Wallpapers" text="Fondos de pantalla"/>
+	<Text id="Photos" text="Fotos"/>
+	<Text id="Stripes" text="Comics"/>
+	<Text id="Facebook" text="Facebook"/>
+	<Text id="EnableSound" text="¿Activar el sonido?"/>
+	<Text id="DeletePicture" text="¿Borrar la foto?"/>
+	<Text id="ConfirmCostume" text="¿Elegir este disfraz?"/>
+	<Text id="ConfirmEnvironment" text="¿Elegir este decorado?"/>
+	<Text id="ConfirmResetSave" text="¿Reiniciar la partida?"/>
+	<Text id="ConfirmEnableMusic" text="¿Activar el sonido?"/>
+	<Text id="ConfirmDisableMusic" text="¿Desactivar sonido?"/>
+	<Text id="AchievementNetwork" text="Red de logros"/>
+	<Text id="Store" text="Tienda"/>
+	<Text id="historypack_Title" text="Pack histórico"/>
+	<Text id="historypack_Describe" text="¡Una novedad para tu aplicación Rabbids - the Full Monty! Tienes 5 disfraces históricos, 5 elementos con todo tipo de chistes, 5 escenarios, 5 fondos de escritorio y 24 nuevas poses de los rabbids, listos para fotografiar. Pero recuerda, es obligatorio adoptar una postura estúpidamente rabbid antes de mandar las fotos a tus amigos."/>
+	<Text id="moustachpack_Title" text="Pack bigotudo"/>
+	<Text id="moustachpack_Describe" text="Descubre nuevos contenidos para tus queridos Raving Rabbids. Disfrázalos con bigotes estrafalarios, desbloquea objetos exclusivos y bromas totalmente desmadradas y… ¡no olvides enviar tus fotos desquiciadas a todos tus amigos!"/>
+	<Text id="ResetSave" text="Reiniciar la partida"/>
+	<Text id="Achievements" text="Logros"/>
+	<Text id="Leaderboards" text="Puntuaciones"/>
+	<Text id="NewHighScore" text="Nuevo récord"/>
+	<Text id="NetworkConnectionRequired" text="Tienes que estar conectado a una red para usar esta característica."/>
+	<Text id="RestoreTransaction" text="Recuperar compras anteriores"/>
+	<Text id="Buy" text="Comprar"/>
+	<Text id="PurchaseDisable" text="Se ha desactivado la compra"/>
+	<Text id="PurchaseFailed" text="Error al comprar"/>
+	<Text id="PurchaseSucceed" text="Compra realizada con éxito"/>
+	<Text id="ProductListRequestFailed" text="Se ha perdido la conexión. Inténtalo más tarde."/>
+	<Text id="RestoreTransactionSucceded" text="Las compras anteriores se han recuperado."/>
+	<Text id="RestoreTransactionFailed" text="Error al recuperar las compras anteriores."/>
+	<Text id="EmptyStore" text="No puedes comprar nada más."/>
+	<Text id="ImgSizeError" text="La imagen elegida es demasiado grande."/>
+	<Text id="CheckOutMyRabbidWallpaper" text="¡Mira mi fondo de pantalla Rabbid!"/>
+	<Text id="CheckOutCoolWallpaper" text="Es un fondo de pantalla genial. Entra a verlo."/>
+	<Text id="SaveToGallery" text="Guardar en mi galería"/>
+	<Text id="SavedInAlbum" text="La imagen se ha guardado en el álbum."/>
+	<Text id="ShareOnFacebook" text="Compartir en Facebook"/>
+	<Text id="Share" text="Compartir"/>
+	<Text id="Send" text="Enviar"/>
+	<Text id="SendByMail" text="Enviar por e-mail"/>
+	<Text id="PictureSent" text="La imagen se ha enviado correctamente."/>
+	<Text id="PictureSendingFailed" text="Error al enviar la imagen"/>
+	<Text id="Photo" text="Foto"/>
+	<Text id="UnableToConnect" text="No hay conexión a Internet"/>
+	<Text id="YouNeedInternet" text="Necesitas tener acceso a Internet para poder utilizar esta aplicación"/>
+	<Text id="YouNeedEmailAccount" text="Tienes que configurar una cuenta de correo electrónico."/>
+	<Text id="NoCamera" text="Este dispositivo no tiene una cámara compatible, pero puedes usar una imagen de la biblioteca de imágenes de tu teléfono."/>
+	<Text id="ReviewTitle" text="¿Te gusta el juego?"/>
+	<Text id="ReviewMessage" text="Si es así, dinos qué nota se merece."/>
+	<Text id="RateIt" text="Sí, poner una nota"/>
+	<Text id="DontAskAgain" text="No volver a preguntar"/>
+	<Text id="RemindMeLater" text="Recordármelo más tarde"/>
+	<Text id="PreEarned_Desc" text="Tienes que desbloquear el logro para ver su descripción."/>
+	<Text id="ClownBox_0" text="¡Ha vuelto!"/>
+	<Text id="ClownBox_0_Desc" text="Cómete la caja del payaso."/>
+	<Text id="Night_0" text="Una larga noche…"/>
+	<Text id="Night_0_Desc" text="Vuelve a encender la luz."/>
+	<Text id="Steam_0" text="En la niebla"/>
+	<Text id="Steam_0_Desc" text="Limpia la ventana."/>
+	<Text id="YellowDuck_0" text="¡Vaya lanzamiento!"/>
+	<Text id="YellowDuck_1" text="¡Qué patoso!"/>
+	<Text id="YellowDuck_0_Desc" text="¡Lanza el pato amarillo!"/>
+	<Text id="YellowDuck_1_Desc" text="Intenta atrapar al pato amarillo."/>
+	<Text id="Piranha_0" text="¡Piraña voladora!"/>
+	<Text id="Piranha_1" text="¿Qué hay dentro?"/>
+	<Text id="Piranha_2" text="¡La venganza!"/>
+	<Text id="Piranha_0_Desc" text="Haz que la piraña salte."/>
+	<Text id="Piranha_1_Desc" text="Mete la cabeza en el agua."/>
+	<Text id="Piranha_2_Desc" text="Cualquier caída sería mortal…"/>
+	<Text id="Swatter_0" text="Ojo con los dedos"/>
+	<Text id="Swatter_1" text="¡Cállate!"/>
+	<Text id="Swatter_0_Desc" text="No pongas los dedos en ningún sitio."/>
+	<Text id="Swatter_1_Desc" text="Convierte al cazador en cazado."/>
+	<Text id="WCBrush_0" text="Lávate la espalda"/>
+	<Text id="WCBrush_1" text="Límpiate las orejas"/>
+	<Text id="WCBrush_2" text="Sé bueno y cállate"/>
+	<Text id="WCBrush_3" text="Cuida tus dientes"/>
+	<Text id="WCBrush_0_Desc" text="Usa el cepillo para lavarte la espalda."/>
+	<Text id="WCBrush_1_Desc" text="Límpiate bien las orejas con el cepillo."/>
+	<Text id="WCBrush_2_Desc" text="Maquíllate con la brocha."/>
+	<Text id="WCBrush_3_Desc" text="Límpiate los dientes con el cepillo."/>
+	<Text id="Micro_0" text="¿Se derrite?"/>
+	<Text id="Micro_1" text="Mmm, qué rico…"/>
+	<Text id="Micro_2" text="¡Con ritmo!"/>
+	<Text id="Micro_0_Desc" text="Lame el micrófono."/>
+	<Text id="Micro_1_Desc" text="Cómete el micrófono."/>
+	<Text id="Micro_2_Desc" text="Pon la música y canta."/>
+	<Text id="PhoneReal_0" text="Colgado"/>
+	<Text id="PhoneReal_1" text="¿Diga-buahhhh?"/>
+	<Text id="PhoneReal_2" text="¡Buaaa… bum!"/>
+	<Text id="PhoneReal_0_Desc" text="Oh, has colgado al rabbid."/>
+	<Text id="PhoneReal_1_Desc" text="Descuelga el teléfono."/>
+	<Text id="PhoneReal_2_Desc" text="¡Cuelga ese teléfono!"/>
+	<Text id="Shield_0" text="Tortuga Rabbid"/>
+	<Text id="Shield_1" text="El surfista medieval"/>
+	<Text id="Shield_2" text="¿El más temible?"/>
+	<Text id="Shield_0_Desc" text="Lleva la coraza como si fuera un caparazón."/>
+	<Text id="Shield_1_Desc" text="Usa el escudo como tabla de surf."/>
+	<Text id="Shield_2_Desc" text="Haz que tu escudo brille como una moneda nueva."/>
+	<Text id="Jetpack_0" text="El rabbid peonza"/>
+	<Text id="Jetpack_1" text="El bailarín de vals"/>
+	<Text id="Jetpack_2" text="Paddle para rabbids"/>
+	<Text id="Jetpack_0_Desc" text="Gira, gira, gira como una peonza."/>
+	<Text id="Jetpack_1_Desc" text="¡Lanza tu cohete mochila!"/>
+	<Text id="Jetpack_2_Desc" text="¡El ritmo y la coordinación son esenciales!"/>
+	<Text id="Guitar_0" text="¡Principiante!"/>
+	<Text id="Guitar_1" text="¡Dientes de roquero!"/>
+	<Text id="Guitar_2" text="Estrellas del rock"/>
+	<Text id="Guitar_0_Desc" text="Toca la guitarra boca abajo."/>
+	<Text id="Guitar_1_Desc" text="Toca la guitarra con los dientes."/>
+	<Text id="Guitar_2_Desc" text="¡Destroza la guitarra!"/>
+	<Text id="EgyptianToiletPaper_0" text="Indigesto…"/>
+	<Text id="EgyptianToiletPaper_1" text="¡Ah, ya lo pillo!"/>
+	<Text id="EgyptianToiletPaper_2" text="El mal juglar"/>
+	<Text id="EgyptianToiletPaper_0_Desc" text="¡Prueba y degusta el papiro!"/>
+	<Text id="EgyptianToiletPaper_1_Desc" text="Lee el papiro."/>
+	<Text id="EgyptianToiletPaper_2_Desc" text="¡Intenta hacer malabares con el rollo!"/>
+	<Text id="PopGun_0" text="¡Tiro al rabbid!"/>
+	<Text id="PopGun_1" text="Un conejo con suerte"/>
+	<Text id="PopGun_2" text="Demasiado curioso"/>
+	<Text id="PopGun_0_Desc" text="Intenta desarmar al rabbid."/>
+	<Text id="PopGun_1_Desc" text="¡Dispara sin pensarlo dos veces!"/>
+	<Text id="PopGun_2_Desc" text="¡Comprueba por qué está encasquillada el arma!"/>
+	<Text id="Point_Single" text="punto"/>
+	<Text id="Point_Plurial" text="puntos"/>
+	<Text id="PhoneReal_Hud" text="¡Rabbid al teléfono!"/>
+	<Text id="Leaderboard_Title" text="Marcador"/>
+	<Text id="CheckOutMyRabbidPhoto" text="¡Mira la foto de mi Rabbid!"/>
+	<Text id="PurchaseBuy" text="¡Buaahcooompra!"/>
+	<Text id="PurchaseInstalled" text="Ya está instalado"/>
+	<Text id="PurchaseEmpty" text="No se ha encontrado ninguna compra de esta aplicación"/>
+	<Text id="AppStoreApplicationDetails" text="¡Hay un rabbid atrapado en tu dispositivo!  No dejes escapar la nueva versión de la aplicación de los Rabbids y disfruta &quot;torturando&quot; e interactuando con tu propio rabbid.  La nueva aplicación de los Rabbids te permitirá descubrir nuevos movimientos y accesorios interactivos con los que chinchar a tu rabbid cautivo para tu gozo y deleite: hazte fotos memorables con él y compártelas con tus amigos en Facebook, o consigue acceso directo a las últimas noticias, vídeos, fondos de escritorio, etc, directamente en tu dispositivo.  Características  Búrlate de tu rabbid... Hazle cosquillas, tira o agita a tu rabbid cautivo y gástale bromas pesadas usando los nuevos objetos interactivos, como la escobilla de baño o el pececillo de colores... estoo ¡la piraña! Intenta descubrir lo antes posible todas las atolondradas interacciones disponibles en la aplicación y compara tus puntuaciones con las de tus amigos en el Game Center.  ¡Posa con tu rabbid! Inmortaliza esos momentos únicos junto a tu rabbid. Publica una foto o mejor, haz una y usa la herramienta de fotos para crear las imágenes más locas que se te ocurran con los rabbids. Comparte tus creaciones únicas con tus amigos por correo electrónico o Facebook y ayuda a expandir el berrido rabbid por todas partes.  Sigue la pista de la comunidad más loca de la red Mantén el contacto con la comunidad de los Rabbids gracias a las noticias de Facebook, consigue el acceso y no dejes de ver los últimos vídeos de los rabbids en Youtube, directamente en tu dispositivo.  ¡Rabbidiza tu teléfono! Desbloquea todo tipo de alocados entretenimientos: fondos de escritorio exclusivos, vídeos delirantes, imágenes... y renueva el estilo de tu zona de juego rabbid gracias a los nuevos fondos temáticos.  Más sorpresas para los rabbid-adictos ¿Quieres más? Compra contenido temático adicional incluyendo trajes exclusivos para tunear tu rabbid, chistes, fondos de escritorio y una versión extendida de la herramienta de fotos. "/>
+	<Text id="Leaderboards_name" text="Gamertag"/>
+	<Text id="Leaderboards_rank" text="Clasificación"/>
+	<Text id="Leaderboards_score" text="Puntuación"/>
+	<Text id="Tracklist_title" text="Lista de temas"/>
+	<Text id="Tracklist_name" text="Nombre"/>
+	<Text id="Tracklist_duration" text="Duración"/>
+	<Text id="Tracklist_noMusic" text="No hay música"/>
+	<Text id="AskBuyScreen_title" text="¿Quieres comprar el juego?"/>
+	<Text id="AskBuyScreen_desc" text="Para desbloquear logros y acceder a contenido adicional tienes que comprar el juego."/>
+	<Text id="Ringtone1Title" text="Pedos"/>
+	<Text id="Ringtone2Title" text="Pedos y risas"/>
+	<Text id="Ringtone3Title" text="Risa loca"/>
+	<Text id="Ringtone4Title" text="Móvil que explota"/>
+	<Text id="Ringtone5Title" text="Cantantes"/>
+	<Text id="RingtoneSaved" text="Tono guardado"/>
+	<Text id="RingtoneError" text="Se ha producido un error"/>
+	<Text id="RingtoneErrorSave" text="El tono no se ha podido guardar"/>
+	<Text id="RingtoneScreenTitle" text="Tonos  de móvil"/>
+	<Text id="LiveTileTitle" text="Rabbids"/>
+	<Text id="UnlockFull" text="Desbloquear la versión completa"/>
+	<Text id="ZuneErrorMsgBox_title" text="Se ha producido un error"/>
+	<Text id="ZuneErrorMsgBox_desc" text="¿Está Zune en marcha? Si es así, desconéctate de Zune y reinicia el juego para acceder a la biblioteca de medios."/>
+	<Text id="ZuneErrorMsgBox_ok" text="Aceptar"/>
+	<Text id="UpdateAvailableTitle" text="¡Hay una actualización disponible!"/>
+	<Text id="UpdateAvailableDesc" text="Esta actualización es necesaria para conectar a Xbox LIVE. ¿Quieres actualizar?"/>
+	<Text id="PleaseWaitAlt1" text="Cargando... Espera un poquitín, por favor."/>
+	<Text id="PleaseWaitAlt2" text="Cargando... Fíjate, el momento justo para ir al lavabo."/>
+	<Text id="PleaseWaitAlt3" text="Cargando... Puedes silbar o canturrear para pasar el rato."/>
+	<Text id="PleaseWaitAlt4" text="Cargando... Ainch, qué paciencia hay que tener, ¿verdad?"/>
+	<Text id="PleaseWaitAlt5" text="Cargando... Podrías contarme un chiste mientras esperamos, ¿no?"/>
+	<Text id="PleaseWaitAlt6" text="Cargando... Tranqui, que ya sabes lo que dicen: nunca llueve eternamente, esto se acabará pronto."/>
+	<Text id="PleaseWaitAlt7" text="Un poquito de paciencia, por favor, que el sistema tiene que cargar cosas, chismes y artilugios."/>
+	<Text id="PleaseWaitAlt8" text="A ver, un segundo, que el sistema está trasfusiando los gamuflinos."/>
+	<Text id="PleaseWaitAlt9" text="Un momentico, que cargamos el plugin de la app del update del ifluzo."/>
+	<Text id="minigames_yellowduck_title" text="Cuac-to de baño"/>
+	<Text id="minigames_yellowduck_description" text="Has desbloqueado el patito de goma."/>
+	<Text id="minigames_yellowduck_howTo" text="Busca todas las acciones posibles y desbloquea el pato de goma."/>
+	<Text id="minigames_piranha_title" text="¡Que se pira la piraña!"/>
+	<Text id="minigames_piranha_description" text="Has desbloqueado la piraña."/>
+	<Text id="minigames_piranha_howTo" text="Busca todas las acciones posibles y desbloquea la piraña."/>
+	<Text id="minigames_swatter_title" text="No te pilles los dedos"/>
+	<Text id="minigames_swatter_description" text="Has desbloqueado la trampa para ratones."/>
+	<Text id="minigames_swatter_howTo" text="Busca todas las acciones posibles y desbloquea la trampa para ratones."/>
+	<Text id="minigames_wcbrush_title" text="Un brillo impecable"/>
+	<Text id="minigames_wcbrush_description" text="Has desbloqueado la escobilla del váter."/>
+	<Text id="minigames_wcbrush_howTo" text="Busca todas las acciones posibles y desbloquea la escobilla del váter."/>
+	<Text id="minigames_micro_title" text="Probando, probando…"/>
+	<Text id="minigames_micro_description" text="Has desbloqueado el micrófono."/>
+	<Text id="minigames_micro_howTo" text="Busca todas las acciones posibles y desbloquea el micrófono."/>
+	<Text id="minigames_phonereal_title" text="¡Buuahhhhola!"/>
+	<Text id="minigames_phonereal_description" text="Has desbloqueado el teléfono."/>
+	<Text id="minigames_phonereal_howTo" text="Busca todas las acciones posibles y desbloquea el teléfono."/>
+	<Text id="minigames_popgun_title" text="¡Corre como un conejo!"/>
+	<Text id="minigames_popgun_description" text="Has desbloqueado la pistola de juguete."/>
+	<Text id="minigames_popgun_howTo" text="Busca todas las acciones posibles y desbloquea la pistola de juguete."/>
+	<Text id="minigames_jetpack_title" text="Un juego para pros"/>
+	<Text id="minigames_jetpack_description" text="Has desbloqueado el propulsor."/>
+	<Text id="minigames_jetpack_howTo" text="Busca todas las acciones posibles y desbloquea el propulsor."/>
+	<Text id="minigames_guitar_title" text="Guitar Zero"/>
+	<Text id="minigames_guitar_description" text="Has desbloqueado la guitarra."/>
+	<Text id="minigames_guitar_howTo" text="Busca todas las acciones posibles y desbloquea la guitarra."/>
+	<Text id="minigames_shield_title" text="Estrella medieval"/>
+	<Text id="minigames_shield_description" text="Has desbloqueado el escudo."/>
+	<Text id="minigames_shield_howTo" text="Busca todas las acciones posibles y desbloquea el escudo."/>
+	<Text id="minigames_egyptiantoiletpaper_title" text="Papiro higiénico"/>
+	<Text id="minigames_egyptiantoiletpaper_description" text="Has desbloqueado el papel higiénico."/>
+	<Text id="minigames_egyptiantoiletpaper_howTo" text="Busca todas las acciones posibles y desbloquea el papel higiénico."/>
+	<Text id="minigames_bow_title" text="Siga la flecha"/>
+	<Text id="minigames_bow_description" text="Has desbloqueado el arco."/>
+	<Text id="minigames_bow_howTo" text="Busca todas las acciones posibles y desbloquea el arco."/>
+	<Text id="minigames_ghetoblaster_title" text="¡Abajo el poder!"/>
+	<Text id="minigames_ghetoblaster_description" text="Has desbloqueado el superloro."/>
+	<Text id="minigames_ghetoblaster_howTo" text="Busca todas las acciones posibles y desbloquea el superloro."/>
+	<Text id="minigames_nunchaku_title" text="¡No, un chaku!"/>
+	<Text id="minigames_nunchaku_description" text="Has desbloqueado el Nunchaku."/>
+	<Text id="minigames_nunchaku_howTo" text="Busca todas las acciones posibles y desbloquea el Nunchaku."/>
+	<Text id="minigames_rugbyball_title" text="Tú a tu bola, oye"/>
+	<Text id="minigames_rugbyball_description" text="Has desbloqueado el balón de rugby."/>
+	<Text id="minigames_rugbyball_howTo" text="Busca todas las acciones posibles y desbloquea el balón de rugby."/>
+	<Text id="minigames_sausagepolice_title" text="¡Arriba las manos!"/>
+	<Text id="minigames_sausagepolice_description" text="Has desbloqueado la salchicha."/>
+	<Text id="minigames_sausagepolice_howTo" text="Busca todas las acciones posibles y desbloquea la salchicha."/>
+	<Text id="minigames_all_title" text="Darle al coco"/>
+	<Text id="minigames_all_description" text="Has encontrado todas las acciones posibles de los objetos y el rabbid."/>
+	<Text id="minigames_all_howTo" text="Busca todas las acciones posibles de los objetos y el rabbid."/>
+	<Text id="sharePicture_title" text="Di patata"/>
+	<Text id="sharePicture_description" text="Has compartido una foto de un Raving Rabbid."/>
+	<Text id="sharePicture_howTo" text="Comparte una imagen de un Raving Rabbid con tus amigos."/>
+	<Text id="useTrackList_title" text="Mueve el esqueleto"/>
+	<Text id="useTrackList_description" text="Has hecho bailar a tu Raving Rabbid."/>
+	<Text id="useTrackList_howTo" text="Has que tu Raving Rabbid baile tu música favorita."/>
+	<Text id="changeCostume_title" text="Esclavos de la moda"/>
+	<Text id="changeCostume_description" text="Has probado un nuevo disfraz."/>
+	<Text id="changeCostume_howTo" text="Cambia el disfraz de tu Raving Rabbid."/>
+</Localization> 

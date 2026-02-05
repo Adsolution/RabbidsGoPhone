@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<UnlockTable>
+
+	<!-- Base Unlocks -->
+	<BaseUnlock>
+		<Costume name="Naked" />
+		<Costume name="String" />
+		<Environment name="Standard" />
+		<Wallpaper name="Wallpaper4" />
+		<Wallpaper name="Wallpaper6" />
+		<Wallpaper name="Wallpaper7" />
+		<Wallpaper name="Wallpaper8" />
+		<Wallpaper name="Wallpaper9" />
+		<Wallpaper name="Wallpaper10" />
+		<Wallpaper name="Wallpaper11" />
+		<Wallpaper name="Wallpaper12" />
+		<Wallpaper name="Wallpaper13" />
+		<Wallpaper name="Wallpaper14" />
+		<Wallpaper name="Wallpaper15" />
+		<Wallpaper name="Wallpaper16" />
+		<Wallpaper name="Wallpaper17" />
+		<Wallpaper name="Wallpaper18" />
+		<Wallpaper name="Wallpaper19" />
+		<AREighty name="BTS_AW3D_RAB08_0002_Resized_PhotoMontage" />
+		<ARPose name="pose01" />
+		<ARPose name="pose00" />
+		<Stripe name="Balloons" />
+		<Stripe name="Cable" />
+		<Stripe name="LakeMoon" />
+		<Stripe name="NewYear" />
+		<Stripe name="Rocket" />
+		<Stripe name="Santa" />
+		<Stripe name="Soda" />
+		<Stripe name="Web" />
+	</BaseUnlock>
+
+	<!-- History Pack -->
+	<Pack name="historypack">
+		<Costume name="Astronaut" />
+		<Costume name="Cleopatra" />
+		<Costume name="Cowboy" />
+		<Costume name="Hippy" />
+		<Costume name="Knight" />
+		<Environment name="Astronaut" />
+		<Environment name="Cleopatra" />
+		<Environment name="Cowboy" />
+		<Environment name="Hippy" />
+		<Environment name="Knight" />
+		<Wallpaper name="Astronaut" />
+		<Wallpaper name="Cleopatra" />
+		<Wallpaper name="Cowboy" />
+		<Wallpaper name="Hippy" />
+		<Wallpaper name="Knight" />
+		<ARPose name="pose04" />
+		<ARPose name="pose06" />
+		<ARPose name="pose07" />
+		<ARPose name="pose08" />
+		<ARPose name="pose09" />
+		<ARPose name="pose10" />
+		<ARPose name="pose11" />
+		<ARPose name="pose12" />
+		<ARPose name="pose13" />
+		<ARPose name="pose14" />
+		<ARPose name="pose15" />
+		<ARPose name="pose17" />
+		<ARPose name="pose18" />
+		<ARPose name="pose20" />
+		<ARPose name="pose22" />
+		<ARPose name="pose24" />
+		<ARPose name="pose25" />
+		<ARPose name="pose26" />
+		<ARPose name="pose27" />
+		<ARPose name="pose28" />
+		<ARPose name="pose30" />
+		<ARPose name="pose32" />
+		<MiniGame name="PopGun" actionCount="3">
+		</MiniGame>
+		<MiniGame name="Jetpack" actionCount="3">
+		</MiniGame>
+		<MiniGame name="Guitar" actionCount="3">
+		</MiniGame>
+		<MiniGame name="Shield" actionCount="3">
+		</MiniGame>
+		<MiniGame name="EgyptianToiletPaper" actionCount="3">
+		</MiniGame>
+	</Pack>
+	
+	<!-- Moustach Pack -->
+	<Pack name="moustachpack">
+		<Costume name="Bow" />
+		<Costume name="GhettoBlaster" />
+		<Costume name="Nunchaku" />
+		<Costume name="RugbyBall" />
+		<Costume name="SausagePolice" />
+		
+		<MiniGame name="Bow" actionCount="2">
+		</MiniGame>
+		<MiniGame name="GhettoBlaster" actionCount="2">
+		</MiniGame>
+		<MiniGame name="Nunchaku" actionCount="2">
+		</MiniGame>
+		<MiniGame name="RugbyBall" actionCount="2">
+		</MiniGame>
+		<MiniGame name="SausagePolice" actionCount="2">
+		</MiniGame>
+	</Pack>
+	
+	<!-- Mini Games definition -->
+	<MiniGame name="ClownBox" actionCount="1">
+		<Action id="0">
+			<Wallpaper name="TRAVEL_INVASION_AW3D_RAB07_0187_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="YellowDuck" actionCount="2">
+		<Action id="1">
+			<Wallpaper name="INVASION_AW3D_RAB10_0057_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="Night" actionCount="1">
+	</MiniGame>
+	<MiniGame name="Steam" actionCount="1">
+	</MiniGame>
+	<MiniGame name="Piranha" actionCount="3">
+		<Action id="2">
+			<Wallpaper name="INVASION_AW3D_RAB10_0061_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="Swatter" actionCount="2">
+		<Action id="1">
+			<Wallpaper name="TWM_AW3D_RAB10_0124_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="WCBrush" actionCount="4">
+		<Action id="1">
+			<Wallpaper name="TV_AW3D_RAB08_0041_Resized" />
+		</Action>
+		<Action id="3">
+			<Wallpaper name="SEASON_AW3D_RAB10_0180_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="Micro" actionCount="3">
+		<Action id="1">
+			<Wallpaper name="SEASON_AW3D_RAB10_0179_Resized" />
+		</Action>
+		<Action id="2">
+			<Wallpaper name="SPORT_AW3D_RAB11_0196_Resized" />
+		</Action>
+	</MiniGame>
+	<MiniGame name="PhoneReal" actionCount="3">
+		<Action id="1">
+			<Wallpaper name="SEASON_AW3D_RAB10_0178_Resized" />
+		</Action>
+		<Action id="2">
+			<Wallpaper name="SEASON_AW3D_RAB10_0181_Resized" />
+		</Action>
+	</MiniGame>
+</UnlockTable>

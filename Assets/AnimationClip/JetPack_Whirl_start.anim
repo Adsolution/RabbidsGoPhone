@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: JetPack_Whirl_start
+  m_Compressed: 0
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.65810823, y: 9.601286E-16, z: -3.8088745E-16, w: 0.7529234}
+        inSlope: {x: -1.4113818, y: 6.7505556E-16, z: 1.8755279E-15, w: -1.3160865}
+        outSlope: {x: -1.4113818, y: 6.7505556E-16, z: 1.8755279E-15, w: -1.3160865}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: -0.7051543, y: 9.826304E-16, z: -3.1836985E-16, w: 0.7090539}
+        inSlope: {x: -1.3696225, y: 6.1483787E-16, z: 1.8983234E-15, w: -1.3623672}
+        outSlope: {x: -1.3696225, y: 6.1483787E-16, z: 1.8983234E-15, w: -1.3623672}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.7494164, y: 1.0011178E-15, z: -2.5433255E-16, w: 0.66209894}
+        inSlope: {x: -0.9515645, y: 3.8315795E-16, z: 1.4044997E-15, w: -1.0397179}
+        outSlope: {x: -0.9515645, y: 3.8315795E-16, z: 1.4044997E-15, w: -1.0397179}
+        tangentMode: 0
+      - time: 0.10000001
+        value: {x: -0.76859194, y: 1.0081743E-15, z: -2.2473653E-16, w: 0.63973933}
+        inSlope: {x: -0.57526577, y: 2.1169573E-16, z: 8.878804E-16, w: -0.67078817}
+        outSlope: {x: -0.57526577, y: 2.1169573E-16, z: 8.878804E-16, w: -0.67078817}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path:
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.065321274, y: 0.5795531, z: 0.079885215}
+        inSlope: {x: -0.7706501, y: 6.6117153, z: -2.4415805}
+        outSlope: {x: -0.7706501, y: 6.6117153, z: -2.4415805}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: 0.038708907, y: 0.80212945, z: -0.004253894}
+        inSlope: {x: -0.8664146, y: 6.8382754, z: -2.7268991}
+        outSlope: {x: -0.86641437, y: 6.7943115, z: -2.715039}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 0.012096533, y: 1.0197428, z: -0.087042816}
+        inSlope: {x: -0.6980704, y: 6.1896496, z: -2.1601486}
+        outSlope: {x: -0.5408159, y: 5.689737, z: -1.6627421}
+        tangentMode: 0
+      - time: 0.1
+        value: {x: 2.4356503E-11, y: 1.1913862, z: -0.124083504}
+        inSlope: {x: -0.104332395, y: 4.388325, z: -0.32019478}
+        outSlope: {x: -0.104332395, y: 4.388325, z: -0.32019478}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path:
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.8194, y: 2.8194, z: 2.8194}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.10000001
+        value: {x: 2.8194, y: 2.8194, z: 2.8194}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path:
+  m_FloatCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0.0024238452, z: -0.025872469}
+    m_Extent: {x: 0.15046647, y: 0.20736131, z: 0.35304224}
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

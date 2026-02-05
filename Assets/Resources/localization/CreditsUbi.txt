@@ -1,0 +1,482 @@
+﻿
+
+UBISOFT PARIS STUDIO
+
+
+STUDIO DIRECTOR
+Xavier Poix
+
+
+SENIOR PRODUCER
+Nino Sapina
+
+
+CREATIVE DIRECTOR
+Cedric Royer
+
+
+ASSOCIATE PRODUCER
+Xavier Manzanares
+Romain Deschamps
+
+
+ANIMATION
+
+
+TECHNICAL DIRECTOR & LEAD ANIMATOR
+Guillaume Cessot
+
+
+ANIMATION ART DIRECTOR
+Philippe Penaud
+
+
+3D ANIMATORS
+Karine Karabetian
+Wang Wen
+Soyty Liv
+Damien Zeelen
+
+
+MARKETING
+
+
+BRAND DIRECTOR
+Stéphanie Langlois
+
+
+IP DEVELOPMENT BRAND DIRECTOR
+Adrian Lacey
+
+
+INTERNATIONAL BRAND MANAGER
+Lionel Hiller
+Joël Gaudeul
+
+
+INTERNATIONAL PRODUCT MANAGER
+Florence Marvingt
+
+
+LEAD MARKETING ARTIST
+Guillaume Arvieu
+
+
+MARKETING ARTISTS
+Pierre-Etienne Beauprez
+Melissa Lafon
+
+
+UBISOFT MILAN STUDIO
+
+
+STUDIO DIRECTOR
+Dario Migliavacca
+
+
+PRODUCER
+Gian Marco Zanna
+
+
+LEAD ANIMATOR
+Luisa Reviglio della Veneria
+
+
+CHARACTER TECHNICAL DESIGNER
+Andrea Boari
+
+
+3D ANIMATORS
+Andrea Niccolai
+Tommaso Malberti
+Paolo De Murtas
+
+
+PUBLISHER
+
+
+UBISOFT ENTERTAINMENT
+
+
+PRESIDENT & CEO
+Yves Guillemot
+
+
+EMEA MANAGING & EXECUTIVE DIRECTOR
+Alain Corre
+
+
+3RD PARTY PROJECT MANAGEMENT
+
+
+EMEA PRODUCTION DIRECTOR
+Xavier Spinat
+
+
+BUSINESS DEVELOPMENT DIRECTOR
+Virginie Gringarten
+Deborah Papiernik
+
+
+PRODUCER
+Arnaud de Pischof
+
+
+ASSOCIATE PRODUCER
+Amélie Delaunay
+François Berranger
+
+
+EMEA PROJECTS COORDINATOR
+Anna Sibai
+
+
+QUALITY CONTROL
+
+
+WORLDWIDE QC DIRECTOR
+Razvan Rotunjanu
+
+
+ROMANIAN STUDIO MANAGER
+George Enescu
+
+
+REVO SOLUTIONS QA TEAM
+
+
+QA STUDIO MANAGER
+Vlad Olteanu
+
+
+QA PROJECT LEADS
+Cristian Bot
+Constantin Gabriel Manolache
+
+
+FUNCTIONALITY TESTERS
+Claudiu Stefan Cretu
+Ovidiu Vicentiu George Badea
+Liviu Cristian Damian
+Cristian-Marcel Godoci
+Eduard Stambulitchi
+Andrei Hutan
+Constantin Schohterus
+Mihail Vernescu
+Valentin Georgescu
+Raul Tiberiu Ivlev
+Yvonne Andreea Marinescu
+
+
+INTERNATIONAL LOCALIZATION
+
+
+EUROPE LOCALIZATION MANAGER
+Bénédicte Laborie
+
+
+SENIOR LOCALIZATION MANAGER
+Bénédicte Jouzel
+
+
+LOCALIZATION PROJECT MANAGERS
+Amandine Mairiaux
+Clémence Bucco
+
+
+ENGLISH LOCALIZATION
+Luke Spear
+
+
+ITALIAN LOCALIZATION
+Erica Ossola
+
+
+GERMAN LOCALIZATION
+Stefan Dinger
+Dieter Pfeil
+
+
+SPANISH LOCALIZATION
+Aguamass Media
+
+
+PROJECT MANAGER
+Esperanza Hernández
+
+
+TRANSLATOR
+Aurelio Saínz
+
+
+LOCALIZATION TESTS
+
+
+BUCHAREST LOCALIZATION QC
+Florentina Neagu
+Joseph-Laurentiu Bourdette
+Cristina Paraschiv
+Virginia Croitoru
+Radu-Dumitru Barbosa
+Simona-Laura Antoniu
+Andreea Stignei
+Sebastian Acuna
+
+
+EXECUTIVE DIRECTOR WORLDWIDE STUDIOS
+Christine Burgess-Quemard
+
+
+CHIEF CREATIVE OFFICER
+Serge Hascoët
+
+
+WORLDWIDE CONTENT DIRECTOR
+Lionel Raynaud
+
+
+PRODUCTION & LD DIRECTOR
+Jean-Marc Geffroy
+
+
+PRE-PRODUCTION DIRECTOR
+Yann Masson
+
+
+CONCEPTION & GD DIRECTOR
+Eric Couzian
+
+
+ONLINE CONTENT DIRECTOR
+Elisabeth Pellen
+
+
+GAME CONTENT MANAGER
+Guillaume Patrux
+
+
+GAME CONTENT MANAGER JUNIOR
+Odile Deguercy
+
+
+UBISOFT EMEA MARKETING TEAM
+
+
+EMEA BUSINESS DIRECTOR
+Geoffroy Sardin
+
+
+EMEA BRAND DIRECTOR
+Caroline Stevens
+
+
+EMEA ONLINE MARKETING GROUP MANAGER
+Thomas Painçon
+
+
+EMEA MARKETING GROUP MANAGER
+Eric Moutardier
+
+
+EMEA ONLINE BRAND MANAGER
+Christophe Malarmey
+
+
+EMEA BRAND MANAGER
+Sophie Blandin
+
+
+EMEA ONLINE SALES DIRECTOR
+Sebastien Courmont
+
+
+EMEA DIGITAL SALES MANAGER
+Etienne Tardieu
+
+
+EMEA PR DIRECTOR
+Stéphane Valet
+
+
+EMEA SENIOR PR MANAGER
+Michael Ferron
+
+
+EMEA ONLINE GAMES PR MANAGER
+Chad Acers
+
+
+EMEA DIGITAL MARKETING MANAGER
+Yannick Myrtil
+
+
+EMEA DIGITAL MARKETING & CRM DIRECTOR
+Stéphane Catherine
+
+
+EMEA WEB PRODUCTION MANAGER
+David Quiquempoix
+
+
+EMEA WEBMASTERS
+Jean Balaya
+Mickael Lagarde
+
+
+WEBMASTER TRAINEE
+Raphael Drion
+
+
+EMEA ONLINE PROMOTION MANAGER
+Fabienne Laurède
+
+
+COMUNITY GROUP DEVELOPMENT MANAGER
+Bruno Guerin
+
+
+EMEA COMUNITY DEVELOPER
+Mathieu Willem
+
+
+EMEA DIGITAL MARKETING MANAGER
+Jean Guerin
+
+
+EMEA PR SPECIALIST
+Julie Vasseur
+
+
+EMEA DIGITAL MANAGER
+Pierre Worgague
+
+
+LOCAL BRAND MANAGERS
+
+
+Germany
+Simon Magata
+
+
+France
+Heidi Etcheverry
+
+
+Australia
+Jane Dignam
+
+
+Austria
+Eugen Knippel
+
+
+Danemark
+Axel Zibrandtsen
+
+
+EMEA Emerging Markets
+Dan Gardener
+
+
+Spain
+Elena Ruiz
+
+
+Italia
+Valeria Zaffina
+
+
+UK
+Ombeline Wallon
+
+
+Poland
+Rafal Adasiak
+
+
+Scandinavia
+Martin Hyst
+
+
+Swiss
+Gil Grandjean
+
+
+Netherlands
+Vincent Thys
+
+
+EMEA EXTERNAL PROJECT COORDINATOR
+Tatjana Stojkovic
+
+
+EMEA CERTIFICATION MANAGER
+Corentin François
+
+
+EMEA CERTIFICATION SPECIALIST
+Julien Jacquet
+
+
+WW AGE RATING COORDINATOR
+Céline Paiva
+
+
+WW AGE RATING COORDINATOR ASSISTANT
+Jean-Marie Mogentale
+
+
+UBISOFT US MARKETING TEAM
+
+
+PRESIDENT
+Laurent Detoc
+
+
+SENIOR VICE PRESIDENT OF SALES AND MARKETING
+Tony Key
+
+
+DIRECTOR OF MARKETING
+Adam Novickas
+
+
+SENIOR BRAND MANAGER
+Robert Alvarez
+
+
+ASSOCIATE DIRECTOR OF PUBLIC RELATIONS
+Michael Beadle
+
+
+ASSOCIATE PR MANAGER
+Scott Fry
+
+
+SENIOR DIRECTOR OF ONLINE STRATEGY
+Josh Milligan
+
+
+DIRECTOR OF DIGITAL MARKETING
+Justin Landskron
+
+
+SENIOR WEB PRODUCER
+Caroleen Beatty
+
+
+DIGITAL MARKETING MANAGER
+Tatiana Fausey
+
+
+ASSOCIATE DIRECTOR OF MEDIA
+Joe Rongavilla
+
+
+SENIOR MEDIA MANAGER
+Adam Krause
+
+
+ONLINE MEDIA MANAGER
+Zand Ushijima
+
